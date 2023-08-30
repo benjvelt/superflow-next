@@ -7,8 +7,8 @@ import { initSuperflow } from '@usesuperflow/client'
 export default function Home() {
 
 useEffect(()=>{
-  initSuperflow('jweIj5yb3k6WElsyHyp3', {
-    projectId: '7562859393923502'
+  initSuperflow('UK94lyDJqZtHiKGmTo2f', {
+    projectId: '4382367812143960'
   });
 
 })

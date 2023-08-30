@@ -14,7 +14,7 @@ useEffect(()=>{
 })
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      Test out Superflow by hightlighting this text.
+      Test out Superflow by highlighting this text.
     </main>
   )
 }
